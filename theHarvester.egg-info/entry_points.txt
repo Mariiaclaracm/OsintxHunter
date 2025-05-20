@@ -1,0 +1,3 @@
+[console_scripts]
+restfulHarvest = theHarvester.restfulHarvest:main
+theHarvester = theHarvester.theHarvester:main
